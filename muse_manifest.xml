@@ -1,0 +1,229 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.chenyangxing.website" resolutions="1x" timestamp="1545055674446">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="yaodai.css" crc="332421943" ref="yaodai"/>
+    <file name="think.css" crc="170878836" ref="think"/>
+    <file name="xiaomoxian.css" crc="285790714" ref="xiaomoxian"/>
+    <file name="project.css" crc="3796088814" ref="project"/>
+    <file name="index.css" crc="3936383721" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="museutils.js" crc="163421577" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="whatinput.js" crc="86476730" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="museconfig.js" crc="36584860" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="project:think:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="project:think:index"/>
+    <file name="require.js" crc="244322403" ref="project:think:index:xiaomoxian:yaodai"/>
+    <file name="webpro.js" crc="3848665353" ref="think:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="think:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="think:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="think:index"/>
+  </folder>
+  <folder name="images">
+    <file name="34.jpg" crc="238632088" ref="project"/>
+    <file name="03_1-06c.png" crc="475298754" seo="true" ref="project"/>
+    <file name="03_1-15c.png" crc="372829811" seo="true" ref="project"/>
+    <file name="n5.png" crc="264566219" seo="true" ref="project"/>
+    <file name="03_1-08c.png" crc="4174067460" seo="true" ref="project"/>
+    <file name="03_1-09c.png" crc="3969587807" seo="true" ref="project"/>
+    <file name="03_1-07c.png" crc="363130325" seo="true" ref="project"/>
+    <file name="03_1-02c.png" crc="205609710" seo="true" ref="project"/>
+    <file name="03_1-03c.png" crc="3851985139" seo="true" ref="project"/>
+    <file name="03_1-04c.png" crc="4059075580" seo="true" ref="project"/>
+    <file name="03_1-071c.png" crc="4287946692" seo="true" ref="project"/>
+    <file name="z3.png" crc="4171267762" seo="true" ref="project"/>
+    <file name="24567.jpg" crc="4196723003" ref="project"/>
+    <file name="03_1-14c.png" crc="4074826208" seo="true" ref="project"/>
+    <file name="03_1-u7871-u5445.png" crc="3917377845" ref="project"/>
+    <file name="03_1-12c.png" crc="314444948" seo="true" ref="project"/>
+    <file name="z5.png" crc="212604906" seo="true" ref="project"/>
+    <file name="t1.jpg" crc="4072380331" ref="project"/>
+    <file name="03_1-11c.png" crc="274616338" seo="true" ref="project"/>
+    <file name="ss.jpg" crc="4282815647" seo="true" ref="project"/>
+    <file name="03_1-24c.png" crc="3962478445" seo="true" ref="project"/>
+    <file name="03_1-22c.png" crc="172256493" seo="true" ref="project"/>
+    <file name="03_1-21c.png" crc="360869004" seo="true" ref="project"/>
+    <file name="03_1-28c.png" crc="4106978561" ref="project"/>
+    <file name="03_1-10c.png" crc="3988653369" seo="true" ref="project"/>
+    <file name="03_1-40c.png" crc="66507306" seo="true" ref="project"/>
+    <file name="03_1-27c.png" crc="203082523" seo="true" ref="project"/>
+    <file name="03_1-39c.png" crc="4227125427" seo="true" ref="project"/>
+    <file name="03_1-35c.png" crc="45811442" seo="true" ref="project"/>
+    <file name="03_1-36c.png" crc="4176016996" seo="true" ref="project"/>
+    <file name="03_1-38c.png" crc="3797372901" seo="true" ref="project"/>
+    <file name="03_1-37c.png" crc="4281083283" seo="true" ref="project"/>
+    <file name="456_55.jpg" crc="222503189" ref="project"/>
+    <file name="03_2-02c.png" crc="327751036" seo="true" ref="project"/>
+    <file name="03_2-08c.png" crc="513416390" seo="true" ref="project"/>
+    <file name="03_2-07c.png" crc="3981736260" seo="true" ref="project"/>
+    <file name="03_2-05c.png" crc="4113299645" seo="true" ref="project"/>
+    <file name="03_2-06c.png" crc="150715452" seo="true" ref="project"/>
+    <file name="z2.png" crc="4266697801" seo="true" ref="project"/>
+    <file name="edit-me.jpg" crc="370121982" ref="project"/>
+    <file name="03_2-25c.png" crc="4055295996" seo="true" ref="project"/>
+    <file name="z4.png" crc="80601283" seo="true" ref="project"/>
+    <file name="41.jpg" crc="316873248" ref="project"/>
+    <file name="03_2-37c.png" crc="198318083" seo="true" ref="project"/>
+    <file name="z1.png" crc="4221238974" seo="true" ref="project"/>
+    <file name="sj2.png" crc="4046785598" seo="true" ref="project"/>
+    <file name="sj.png" crc="3843118680" seo="true" ref="project"/>
+    <file name="gg.gif" crc="4263383385" seo="true" ref="project"/>
+    <file name="qc_8.png" crc="3880993775" seo="true" ref="project"/>
+    <file name="tk.png" crc="427607734" seo="true" ref="project"/>
+    <file name="04_16.png" crc="4041502834" seo="true" ref="project"/>
+    <file name="03.png" crc="409296042" seo="true" ref="project"/>
+    <file name="02.png" crc="3766991671" seo="true" ref="project"/>
+    <file name="08.jpg" crc="498021818" ref="think"/>
+    <file name="07_2.png" crc="338425319" ref="think"/>
+    <file name="n4.png" crc="3912360333" seo="true" ref="think"/>
+    <file name="2-02c.png" crc="4126337024" seo="true" ref="think"/>
+    <file name="2-05c.png" crc="3975406330" seo="true" ref="think"/>
+    <file name="2-04c.png" crc="515339111" seo="true" ref="think"/>
+    <file name="2-06c.png" crc="31008146" seo="true" ref="think"/>
+    <file name="2-03c.png" crc="319181911" seo="true" ref="think"/>
+    <file name="2-10c.png" crc="59171313" seo="true" ref="think"/>
+    <file name="2-23c.png" crc="292247558" seo="true" ref="think"/>
+    <file name="2-11c.png" crc="3798983866" seo="true" ref="think"/>
+    <file name="2-22c.png" crc="4188648040" seo="true" ref="think"/>
+    <file name="2-20c.png" crc="3809132763" seo="true" ref="think"/>
+    <file name="16_54.png" crc="4250142586" seo="true" ref="think"/>
+    <file name="2-12c.png" crc="4230707805" seo="true" ref="think"/>
+    <file name="2-21c.png" crc="267860562" seo="true" ref="think"/>
+    <file name="14.png" crc="141799773" seo="true" ref="think"/>
+    <file name="2-13c.png" crc="129894016" seo="true" ref="think"/>
+    <file name="2-19c.png" crc="3995206546" seo="true" ref="think"/>
+    <file name="wt.png" crc="260739575" seo="true" ref="think"/>
+    <file name="bg.jpg" crc="103260484" ref="think"/>
+    <file name="2-26c.png" crc="4268580995" seo="true" ref="think"/>
+    <file name="2-29c.png" crc="198906783" seo="true" ref="think"/>
+    <file name="2-27c.png" crc="241266511" seo="true" ref="think"/>
+    <file name="2-28c.png" crc="170288916" seo="true" ref="think"/>
+    <file name="42.jpg" crc="3784329036" ref="think"/>
+    <file name="2-40c.png" crc="183238533" seo="true" ref="think"/>
+    <file name="2-33c.png" crc="394389811" seo="true" ref="think"/>
+    <file name="2-32c.png" crc="4165647063" seo="true" ref="think"/>
+    <file name="2-39c.png" crc="3934676468" seo="true" ref="think"/>
+    <file name="2-36c.png" crc="145231211" seo="true" ref="think"/>
+    <file name="2-38c.png" crc="3926551303" seo="true" ref="think"/>
+    <file name="2-35c.png" crc="460288641" seo="true" ref="think"/>
+    <file name="2-47c.png" crc="4076473515" seo="true" ref="think"/>
+    <file name="t1-u6433-u5021.png" crc="3808599229" ref="think"/>
+    <file name="1-1.gif" crc="295566194" seo="true" ref="think"/>
+    <file name="2-2.gif" crc="4018817241" seo="true" ref="think"/>
+    <file name="t1-5111c.png" crc="38222913" seo="true" ref="think"/>
+    <file name="44.jpg" crc="334952777" ref="think"/>
+    <file name="2-50c.png" crc="40593812" seo="true" ref="think"/>
+    <file name="02-511c.png" crc="225539053" seo="true" ref="think"/>
+    <file name="02-503c.png" crc="267816795" seo="true" ref="think"/>
+    <file name="02-502c.png" crc="66519697" seo="true" ref="think"/>
+    <file name="02-501c.png" crc="3794095634" seo="true" ref="think"/>
+    <file name="t3.jpg" crc="4232856696" seo="true" ref="think"/>
+    <file name="t1_74.jpg" crc="195000043" seo="true" ref="think"/>
+    <file name="t2.jpg" crc="3933545240" seo="true" ref="think"/>
+    <file name="02-512c.png" crc="3940082081" seo="true" ref="think"/>
+    <file name="1-crop-u4904.jpg" crc="457359670" ref="think"/>
+    <file name="2-crop-u4902.jpg" crc="4095945344" ref="think"/>
+    <file name="3-crop-u4898.jpg" crc="83598589" ref="think"/>
+    <file name="4-crop-u4900.jpg" crc="488931448" ref="think"/>
+    <file name="5-crop-u4892.jpg" crc="4050374192" ref="think"/>
+    <file name="6-crop-u4896.jpg" crc="327858216" ref="think"/>
+    <file name="7-crop-u4890.jpg" crc="345733381" ref="think"/>
+    <file name="8-crop-u4894.jpg" crc="35108450" ref="think"/>
+    <file name="1.jpg" crc="3852244613" seo="true" ref="think"/>
+    <file name="blank.gif" crc="4208392903" ref="think"/>
+    <file name="2.jpg" crc="4284335578" seo="true" ref="think"/>
+    <file name="3.jpg" crc="3944633726" seo="true" ref="think"/>
+    <file name="4.jpg" crc="4164854641" seo="true" ref="think"/>
+    <file name="5.jpg" crc="4261918532" seo="true" ref="think"/>
+    <file name="6.jpg" crc="3831768502" seo="true" ref="think"/>
+    <file name="7.jpg" crc="4188258324" seo="true" ref="think"/>
+    <file name="8.jpg" crc="29218629" seo="true" ref="think"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="think"/>
+    <file name="left-arrow_poster_u2245.png" crc="4045995107" ref="think"/>
+    <file name="right-arrow.svg" crc="415473593" ref="think"/>
+    <file name="right-arrow_poster_u2093.png" crc="324535153" ref="think"/>
+    <file name="pasted-svg-36x36.svg" crc="3916680880" seo="true" ref="think"/>
+    <file name="pasted svg 36x36_poster_.png" crc="281688840" ref="think"/>
+    <file name="loading.gif" crc="3815509949" ref="think"/>
+    <file name="3432.gif" crc="432570217" seo="true" ref="think:index"/>
+    <file name="n3.png" crc="183484251" seo="true" ref="think"/>
+    <file name="1-15c.jpg" crc="4019233674" ref="index"/>
+    <file name="1-14c.png" crc="16966959" seo="true" ref="index"/>
+    <file name="1-13c.png" crc="4115579341" seo="true" ref="index"/>
+    <file name="1-12c.png" crc="76144660" seo="true" ref="index"/>
+    <file name="1-10c.png" crc="260833524" seo="true" ref="index"/>
+    <file name="1-11c.png" crc="4225116161" seo="true" ref="index"/>
+    <file name="1-05c.png" crc="4243756237" seo="true" ref="index"/>
+    <file name="07.png" crc="4103377248" seo="true" ref="index"/>
+    <file name="01-59c.png" crc="3930634165" seo="true" ref="index"/>
+    <file name="1-58c.png" crc="3993112758" seo="true" ref="index"/>
+    <file name="1-81c.png" crc="4272429333" seo="true" ref="index"/>
+    <file name="1-56c.png" crc="473205946" seo="true" ref="index"/>
+    <file name="1-52c.png" crc="10511553" seo="true" ref="index"/>
+    <file name="1-39c.png" crc="525995176" seo="true" ref="index"/>
+    <file name="1-29c.png" crc="298883483" seo="true" ref="index"/>
+    <file name="1-51c.png" crc="4048826140" seo="true" ref="index"/>
+    <file name="1-38c.png" crc="4119085039" seo="true" ref="index"/>
+    <file name="1-18c.png" crc="4187179652" seo="true" ref="index"/>
+    <file name="234.png" crc="4166382438" seo="true" ref="index"/>
+    <file name="1-43c.png" crc="89842906" seo="true" ref="index"/>
+    <file name="1-35c.png" crc="148140326" seo="true" ref="index"/>
+    <file name="principle.png" crc="501235511" seo="true" ref="index"/>
+    <file name="1-34c.png" crc="3981534267" seo="true" ref="index"/>
+    <file name="1-84c.png" crc="4146832528" seo="true" ref="index"/>
+    <file name="1-54c.png" crc="3798726727" seo="true" ref="index"/>
+    <file name="1-50c.png" crc="112139926" seo="true" ref="index"/>
+    <file name="1-37c.png" crc="202993298" seo="true" ref="index"/>
+    <file name="1-23c.png" crc="4232708118" seo="true" ref="index"/>
+    <file name="1-41c.png" crc="1603396" seo="true" ref="index"/>
+    <file name="1-33c.png" crc="4177412082" seo="true" ref="index"/>
+    <file name="1-83c.png" crc="4061900938" seo="true" ref="index"/>
+    <file name="1-31c.png" crc="535793592" seo="true" ref="index"/>
+    <file name="1-49c.png" crc="81336446" seo="true" ref="index"/>
+    <file name="1-36c.png" crc="4017984752" seo="true" ref="index"/>
+    <file name="1-21c.png" crc="399675315" seo="true" ref="index"/>
+    <file name="1-40c.png" crc="3869957391" seo="true" ref="index"/>
+    <file name="1-32c.png" crc="502162125" seo="true" ref="index"/>
+    <file name="1-82c.png" crc="59961535" seo="true" ref="index"/>
+    <file name="1-80c.png" crc="4218095514" seo="true" ref="index"/>
+    <file name="1-61c.png" crc="132676190" seo="true" ref="index"/>
+    <file name="1-60c.png" crc="4041066494" seo="true" ref="index"/>
+    <file name="1-63c.png" crc="4043571591" seo="true" ref="index"/>
+    <file name="1-66c.png" crc="139238034" seo="true" ref="index"/>
+    <file name="1-71c.png" crc="44327885" seo="true" ref="index"/>
+    <file name="1-48c.png" crc="3950304040" seo="true" ref="index"/>
+    <file name="1-44c.png" crc="3915090670" seo="true" ref="index"/>
+    <file name="1-47c.png" crc="348689771" seo="true" ref="index"/>
+    <file name="1-45c.png" crc="253524707" seo="true" ref="index"/>
+    <file name="1-46c.png" crc="3837213410" seo="true" ref="index"/>
+    <file name="1-79c.png" crc="4192291317" seo="true" ref="index"/>
+    <file name="652.png" crc="37752505" seo="true" ref="index"/>
+    <file name="651.png" crc="3851618745" seo="true" ref="index"/>
+    <file name="65.png" crc="3764975838" seo="true" ref="index"/>
+    <file name="1-74c.png" crc="4183429098" seo="true" ref="index"/>
+    <file name="1-73c.png" crc="235084824" seo="true" ref="index"/>
+    <file name="1-72c.png" crc="3774117178" seo="true" ref="index"/>
+    <file name="n1.png" crc="3957029240" seo="true" ref="index"/>
+    <file name="xmx.jpg" crc="4202205630" seo="true" ref="xiaomoxian"/>
+    <file name="xmx_5.jpg" crc="3899719975" seo="true" ref="xiaomoxian"/>
+    <file name="xmx11_37.jpg" crc="3901013431" seo="true" ref="xiaomoxian"/>
+    <file name="xmx11.jpg" crc="340433331" seo="true" ref="xiaomoxian"/>
+    <file name="xmx_51.jpg" crc="7131165" seo="true" ref="xiaomoxian"/>
+    <file name="xmx_94.jpg" crc="4113243590" seo="true" ref="xiaomoxian"/>
+    <file name="xmx_18.jpg" crc="75771551" seo="true" ref="xiaomoxian"/>
+    <file name="xmx_43.jpg" crc="371521493" seo="true" ref="xiaomoxian"/>
+    <file name="15.jpg" crc="3971655834" seo="true" ref="yaodai"/>
+    <file name="112_56.jpg" crc="287203305" seo="true" ref="yaodai"/>
+    <file name="112.jpg" crc="126909279" seo="true" ref="yaodai"/>
+    <file name="11.jpg" crc="481656648" seo="true" ref="yaodai"/>
+    <file name="12.jpg" crc="13354093" seo="true" ref="yaodai"/>
+    <file name="14.jpg" crc="178568857" seo="true" ref="yaodai"/>
+  </folder>
+  <file name="project.html" crc="3783460085" seo="true" mt="1489615814062" redirect="true"/>
+  <file name="think.html" crc="278125461" seo="true" mt="1490132743914" redirect="true"/>
+  <file name="index.html" crc="4165887209" seo="true" mt="1490132365813" redirect="true"/>
+  <file name="xiaomoxian.html" crc="310523270" seo="true" mt="1489560780411" redirect="true"/>
+  <file name="yaodai.html" crc="22290236" seo="true" mt="1489560815420" redirect="true"/>
+</manifest>
